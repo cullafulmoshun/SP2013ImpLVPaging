@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="d49cf67c-9102-4ac5-ae6a-f9bf32e57a70" solutionId="d49cf67c-9102-4ac5-ae6a-f9bf32e57a70" resetWebServer="false" sharePointProductVersion="15.0" name="SP2013ListViewPaging" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="87e596f4-979b-4759-8db5-ec098bd2ea0d" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="cb49ce6f-3155-4562-a3e3-c321c35ff9da" />
+  </projectItems>
+</package>
